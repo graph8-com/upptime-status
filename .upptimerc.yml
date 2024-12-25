@@ -5,6 +5,10 @@ repo: upptime-status # The name of this repository
 sites:
   - name: graph8 site
     url: https://graph8.com
+  - name: UUI
+    url: https://uui.graph8.com
+    expectedStatusCodes:
+      - 302
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -21,10 +25,10 @@ status-website:
       href: /
   css: |
     :root {
-      --primary-color: #0a0118;
-      --secondary-color: #0a0118;
-      --background-color: #f9f9f9;
-      --text-color: #333333;
+      --primary-color: #7d2df3;
+      --secondary-color: #7d2df3;
+      --background-color: #9747ff;
+      --text-color: #222222;
     }
 
     body {
@@ -43,9 +47,6 @@ status-website:
     }
 i18n:
   footer: graph8
-theme:
-  primary-color: "#f9f9f9" # Primary color from www.graph8.com
-  background-color: "#f9f9f9" # Background color
 
 
 
