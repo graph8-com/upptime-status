@@ -7,10 +7,13 @@ sites:
     url: https://graph8.com
   - name: UUI
     url: https://uui.graph8.com
+    icon: https://graph8.com/content/images/size/w256h256/2024/06/favicon-g8.png
   - name: Cdp
     url: https://cdp.graph8.com
+    icon: https://graph8.com/content/images/size/w256h256/2024/06/favicon-g8.png
   - name: Events
     url: https://events.graph8.com/health
+    icon: https://graph8.com/content/images/size/w256h256/2024/06/favicon-g8.png
   - name: Schedule
     url: https://schedule.graph8.com/auth/login
 
@@ -29,25 +32,9 @@ status-website:
       href: /
   css: |
     :root {
-      --primary-color: #7d2df3;
-      --secondary-color: #7d2df3;
-      --background-color: #9747ff;
-      --text-color: #222222;
-    }
-
-    body {
-      background-color: var(--background-color);
-      color: var(--text-color);
-    }
-
-    .header {
-      background-color: var(--primary-color);
-      color: #ffffff;
-    }
-
-    .footer {
-      background-color: var(--secondary-color);
-      color: #ffffff;
+      --body-background-color: rgba(230, 230, 250, 0.9);
+      --card-background-color: rgba(248, 249, 250, 0.95);
+      --nav-background-color: rgba(106, 90, 205, 0.85);
     }
 i18n:
   footer: graph8
