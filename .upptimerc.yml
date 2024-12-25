@@ -12,7 +12,7 @@ status-website:
   cname: status.graph8.com
   # baseUrl: /your-repo-name
   logoUrl: https://graph8.com/content/images/size/w256h256/2024/06/favicon-g8.png
-  name: Upptime
+  name: graph8
   introTitle: "**graph8** statuspage"
   navbar:
     - title: Status
