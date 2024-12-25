@@ -21,6 +21,10 @@ status-website:
       href: /
 i18n:
   footer: graph8
+theme:
+  primary-color: "#9747ff" # Primary color from www.graph8.com
+  background-color: "#f9f9f9" # Background color
+
 
 
 # Upptime also supports notifications, assigning issues, and more
