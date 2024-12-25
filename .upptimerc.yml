@@ -19,8 +19,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-  i18n:
-    footer: graph8
+i18n:
+  footer: graph8
 
 
 # Upptime also supports notifications, assigning issues, and more
