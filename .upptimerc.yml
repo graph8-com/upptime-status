@@ -21,15 +21,19 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.graph8.com
-  baseUrl: https://graph8.com
+  # baseUrl: https://graph8.com
   favicon: https://graph8.com/content/images/size/w256h256/2024/06/favicon-g8.png
   faviconSvg: https://graph8.com/content/images/size/w256h256/2024/06/favicon-g8.png
   logoUrl: https://graph8.com/content/images/size/w256h256/2024/06/favicon-g8.png
   name: graph8
   introTitle: "**graph8** statuspage"
   navbar:
-    - title: Status
-      href: /
+    - title: Website
+      href: https://graph8.com
+    - Changelog:
+      href: https://changelog.graph8.com/changelog
+    - Feedback:
+      href: https://changelog.graph8.com
   css: |
     :root {
       --body-background-color: rgba(37, 36, 66, 0.9);
