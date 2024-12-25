@@ -7,8 +7,6 @@ sites:
     url: https://graph8.com
   - name: UUI
     url: https://uui.graph8.com
-    expectedStatusCodes:
-      - 302
   - name: Cdp
     url: https://cdp.graph8.com
   - name: Events
