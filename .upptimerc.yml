@@ -19,6 +19,28 @@ status-website:
   navbar:
     - title: Status
       href: /
+  css: |
+    :root {
+      --primary-color: #0a0118;
+      --secondary-color: #0a0118;
+      --background-color: #f9f9f9;
+      --text-color: #333333;
+    }
+
+    body {
+      background-color: var(--background-color);
+      color: var(--text-color);
+    }
+
+    .header {
+      background-color: var(--primary-color);
+      color: #ffffff;
+    }
+
+    .footer {
+      background-color: var(--secondary-color);
+      color: #ffffff;
+    }
 i18n:
   footer: graph8
 theme:
