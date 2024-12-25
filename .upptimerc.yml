@@ -12,7 +12,7 @@ sites:
     url: https://cdp.graph8.com
     icon: https://graph8.com/content/images/size/w256h256/2024/06/favicon-g8.png
   - name: Events
-    url: https://events.graph8.com/health
+    url: https://events.flow.graph8.com/health
     icon: https://graph8.com/content/images/size/w256h256/2024/06/favicon-g8.png
   - name: Schedule
     url: https://schedule.graph8.com/auth/login
