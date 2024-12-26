@@ -39,6 +39,8 @@ status-website:
       --body-background-color: #0F0B1E;
       --card-background-color: #1E293B;
       --nav-background-color: #0A0118;
+      --nav-border-bottom-color: #0A0118;
+      --card-border-color: #1E293B;
       --body-text-color: #FFFFFF
     }
 i18n:
