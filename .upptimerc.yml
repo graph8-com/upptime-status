@@ -36,10 +36,10 @@ status-website:
       href: https://changelog.graph8.com
   css: |
     :root {
-      --body-background-color: rgba(37, 36, 66, 0.9);
-      --card-background-color: rgba(151, 71, 255, 0.6);
-      --nav-background-color: rgba(151, 71, 255, 0.6);
-      --body-text-color: rgb(255, 255, 255, 1);
+      --body-background-color: #0F0B1E;
+      --card-background-color: #1E293B;
+      --nav-background-color: #0A0118;
+      --body-text-color: #FFFFFF
     }
 i18n:
   footer: graph8
