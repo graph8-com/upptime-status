@@ -22,19 +22,19 @@
     "url": "https://uui.graph8.com",
     "icon": "https://graph8.com/content/images/size/w256h256/2024/06/favicon-g8.png",
     "slug": "uui",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 425,
-    "timeDay": 5436,
-    "timeWeek": 1531,
-    "timeMonth": 557,
-    "timeYear": 425,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 422,
+    "timeDay": 3660,
+    "timeWeek": 1373,
+    "timeMonth": 544,
+    "timeYear": 422,
     "dailyMinutesDown": {
-      "2025-03-31": 0
+      "2025-03-31": 7
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 176,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-03-31": 1311,
+      "2025-03-31": 1319,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
