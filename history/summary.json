@@ -4,7 +4,7 @@
     "url": "https://graph8.com",
     "icon": "https://icons.duckduckgo.com/ip3/graph8.com.ico",
     "slug": "graph8-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1251,
     "timeMonth": 1343,
     "timeYear": 793,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-15": 0
+    }
   },
   {
     "name": "UUI",
@@ -41,18 +43,18 @@
     "icon": "https://graph8.com/content/images/size/w256h256/2024/06/favicon-g8.png",
     "slug": "cdp",
     "status": "down",
-    "uptime": "48.74%",
+    "uptime": "48.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "48.74%",
+    "uptimeYear": "48.68%",
     "time": 187,
     "timeDay": 404,
     "timeWeek": 298,
     "timeMonth": 204,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-04-15": 16,
+      "2025-04-15": 219,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
