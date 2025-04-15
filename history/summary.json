@@ -4,19 +4,19 @@
     "url": "https://graph8.com",
     "icon": "https://icons.duckduckgo.com/ip3/graph8.com.ico",
     "slug": "graph8-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 793,
-    "timeDay": 2120,
-    "timeWeek": 1251,
-    "timeMonth": 1343,
-    "timeYear": 793,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 797,
+    "timeDay": 1677,
+    "timeWeek": 1249,
+    "timeMonth": 1340,
+    "timeYear": 797,
     "dailyMinutesDown": {
-      "2025-04-15": 0
+      "2025-04-15": 12
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 204,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-04-15": 219,
+      "2025-04-15": 230,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
